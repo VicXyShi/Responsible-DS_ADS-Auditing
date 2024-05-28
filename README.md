@@ -35,11 +35,3 @@ We utilized multiple datasets provided by Home Credit Group, including:
 ## Results
 - **Predictive Accuracy**: Evaluated using AUC-ROC.
 - **Fairness Analysis**: Ensuring equitable treatment across all demographic groups, with a focus on FNR parity.
-
-## Repository Structure
-- `data/`: Contains the datasets used in the project.
-- `notebooks/`: Jupyter notebooks with data exploration, preprocessing, model training, and auditing.
-- `src/`: Source code for data processing, feature engineering, model implementation, and auditing.
-- `results/`: Contains the results and evaluations of the audit.
-- `README.md`: Project documentation.
-
